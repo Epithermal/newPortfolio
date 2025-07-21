@@ -174,7 +174,7 @@ const profile = {
                 <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight">
                   Hello
                   <span className="relative inline-block">
-                    I&apos;m&nbsp
+                    I&apos;m&nbsp;
                     <span className="typing-effect gradient-text">
                       {" "}
                       Callum
