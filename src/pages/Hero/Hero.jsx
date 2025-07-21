@@ -177,7 +177,7 @@ const profile = {
                     I&apos;m
                     <span className="typing-effect gradient-text">
                       {" "}
-                      Callum
+                       Callum
                     </span>
                   </span>
                 </h1>
