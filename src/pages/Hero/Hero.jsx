@@ -172,9 +172,9 @@ const profile = {
               {/* Name section */}
               <div className="relative mb-6 sm:mb-8">
                 <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight">
-                  Hello
+                  Hello&nbsp;
                   <span className="relative inline-block">
-                    I&apos;&nbsp;m
+                    I&apos;m
                     <span className="typing-effect gradient-text">
                       {" "}
                       Callum
